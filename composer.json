@@ -1,0 +1,14 @@
+{
+  "name": "petertasker/emojicon-replacr",
+  "authors": [{
+    "name": "Peter Tasker",
+    "email": "tasker82@gmail.com"
+  }],
+  "require": {},
+
+  "autoload": {
+    "psr-4": {
+      "EmojiconPlugin\\": "src/"
+    }
+  }
+}
