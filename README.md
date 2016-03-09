@@ -15,7 +15,9 @@ the :==>  (╯°□°)╯
 foo :==>  ಠ_ಠ
 WordPress :==> 😎
 ```
-
 5. Select the replacement method (relace, before, after). This either prepends, appends or straight up replaces the item
 6. Profit?
+
+![alt text](http://i.imgur.com/izeeK20.jpg "Screenshot")
+
 
