@@ -9,11 +9,13 @@ _Steps to install:_
 2. Go to Appearance > Customizer
 3. Click on Emojicon Plugin
 4. Setup your replacements like so:
-    ```
-  the :==>  (╯°□°)╯
-  foo :==>  ಠ_ಠ
-  WordPress :==> 😎
-    ```
+
+```
+the :==>  (╯°□°)╯
+foo :==>  ಠ_ಠ
+WordPress :==> 😎
+```
+
 5. Select the replacement method (relace, before, after). This either prepends, appends or straight up replaces the item
 6. Profit?
 
