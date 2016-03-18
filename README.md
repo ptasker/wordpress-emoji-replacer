@@ -6,6 +6,7 @@ Base concept is that is uses the_content filter and preg_replace().
 _Steps to install:_
 
 * Install the plugin
+* Run composer install in the plugin root, as the plugin uses the composer autoloader.
 * Go to Appearance > Customizer
 * Click on Emojicon Plugin
 * Setup your replacements like so:
