@@ -52,6 +52,6 @@ class Customizer {
 	}
 
 	public function sanitize_input( $value ) {
-		return $value;
+		return sanitize_text_field($value);
 	}
 }
