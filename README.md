@@ -5,15 +5,18 @@ Base concept is that is uses the_content filter and preg_replace().
 
 _Steps to install:_
 
-1. Install the plugin
-2. Go to Appearance > Customizer
-3. Click on Emojicon Plugin
-4. Setup your replacements like so:
-    ```
+* Install the plugin
+* Go to Appearance > Customizer
+* Click on Emojicon Plugin
+* Setup your replacements like so:
+```
 the :==>  (╯°□°)╯
 foo :==>  ಠ_ಠ
 WordPress :==> 😎
-    ```
-5. Select the replacement method (relace, before, after). This either prepends, appends or straight up replaces the item
-6. Profit?
+```
+* Select the replacement method (relace, before, after). This either prepends, appends or straight up replaces the item
+* Profit?
+
+![alt text](http://i.imgur.com/izeeK20.jpg "Screenshot")
+
 
